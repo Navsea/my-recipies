@@ -1,14 +1,12 @@
 ---
-tags: [hoofdgerecht, mexicaans, kip, mealprep]
+tags: [hoofdgerecht, mexicaans, kip, mealprep, favoriet]
 tijd: 3-4u (waarvan ~1u15 actief; 2u sudderen + 30min inkoken)
 personen: 10
 opbrengst: ongeveer 10 tot 12 porties (250 à 300 g per portie)
 bron:
-beoordeling: ☆☆☆☆☆ (nog testen — draft in inbox)
+beoordeling: ★★★★½ (4,5 sterren)
 ---
 # Pulled chicken (taco / wrap / bowl)
-
-Status: DRAFT — ongetest, nog niet naar `recepten/` verplaatsen.
 
 ## Serveren (kies 1)
 - Optie A: taco's (zacht of hard — zacht breekt minder en er kan meer vulling in) + pulled chicken + avocado + zure room + cheddar

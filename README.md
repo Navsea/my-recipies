@@ -3,7 +3,7 @@
 Mijn recepten-vault.
 
 ## ⭐ Favorieten
-- (nog leeg — tag lekkere recepten met `favoriet`)
+- [[recepten/pulled-chicken]] — 4,5 sterren
 
 ## Categorieën
 Zoek in Obsidian op tag:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/pulled-chicken.md",
+                "file": "recepten/pulled-chicken.md",
                 "mode": "preview",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/pulled-chicken.md",
+                "file": "recepten/pulled-chicken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/pulled-chicken.md",
+                "file": "recepten/pulled-chicken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/pulled-chicken.md",
+                "file": "recepten/pulled-chicken.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,9 +191,10 @@
   "active": "e93d2291cec83835",
   "lastOpenFiles": [
     "inbox/oven-ribben.md",
+    "inbox/pulled-chicken.md",
+    "recepten/pulled-chicken.md",
     "inbox/krokante-chickenwings.md",
     "inbox/balletjes-tomatensaus.md",
-    "inbox/pulled-chicken.md",
     "inbox.md",
     "AFSPRAKEN.md"
   ]
