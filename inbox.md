@@ -1,5 +1,5 @@
 # inbox
 
-Ideeën om nog te proberen. Kort houden, opruimen na koken.
+Index van ideeën en ongeteste recepten (drafts in `inbox/`).
 
-- [ ]
+- [ ] [[inbox/pulled-chicken]] — testen + omzetten naar library

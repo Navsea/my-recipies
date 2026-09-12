@@ -15,7 +15,8 @@ Zoek in Obsidian op tag:
 - #drankje
 
 ## Snel
-- [[inbox]] — ideeën om te proberen
-- `recepten/` — 1 bestand per recept
+- [[inbox]] — index van ideeën en drafts
+- `inbox/` — ongeteste recepten (drafts)
+- `recepten/` — permanente library, 1 bestand per recept
 - `bijlagen/` — foto's
 - [[AFSPRAKEN]] — regels van deze vault
