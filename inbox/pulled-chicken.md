@@ -27,7 +27,11 @@ Snelle taco-topping (fris tegenover warme, rijke kip):
 - cheddar
 
 Optionele upgrade (restaurantniveau):
-- 1 rode ui, zeer fijn gesneden, gemengd met sap van een halve limoen + snuf zout, 15 min laten staan
+- Pickled rode ui: 1 rode ui, zeer fijn gesneden, gemengd met sap van 1 limoen + snuf zout, 15 min laten staan
+
+Mini-gerechtjes (apart serveren):
+- Pickled rode ui: 1 rode ui + snuf zout + sap van 1 limoen, 15 min laten staan
+- Guacamole: 3 kleine avocado's + sap van ½ tot 1 limoen (begin met ½) + ½ tl zout + eventueel wat zwarte peper
 
 ## Ingrediënten
 
@@ -66,7 +70,7 @@ Op het einde:
 - 1 blik zwarte bonen of kidneybonen (uitgelekt en afgespoeld)
 
 Boodschappen-upgrade (maakt meer verschil dan extra kruiden):
-- 2 avocado's, zure room, geraspte cheddar, taco's (zacht of hard)
+- 3 kleine avocado's, zure room, geraspte cheddar, taco's (zacht of hard)
 - (optioneel: 1 rode ui voor pickled topping)
 
 ## Bereiding
