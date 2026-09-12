@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/pulled-chicken.md",
+                "file": "inbox/balletjes-tomatensaus.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pulled-chicken"
+              "title": "balletjes-tomatensaus"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/pulled-chicken.md",
+                "file": "inbox/balletjes-tomatensaus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/pulled-chicken.md",
+                "file": "inbox/balletjes-tomatensaus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/pulled-chicken.md",
+                "file": "inbox/balletjes-tomatensaus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,8 @@
   },
   "active": "e93d2291cec83835",
   "lastOpenFiles": [
+    "inbox/oven-ribben.md",
+    "inbox/pulled-chicken.md",
     "inbox/balletjes-tomatensaus.md",
     "inbox.md",
     "AFSPRAKEN.md"
