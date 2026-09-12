@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "inbox/pulled-chicken.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -190,6 +190,7 @@
   },
   "active": "e93d2291cec83835",
   "lastOpenFiles": [
+    "inbox/balletjes-tomatensaus.md",
     "inbox.md",
     "AFSPRAKEN.md"
   ]
