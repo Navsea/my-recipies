@@ -26,6 +26,9 @@ Snelle taco-topping (fris tegenover warme, rijke kip):
 - zure room
 - cheddar
 
+Optionele upgrade (restaurantniveau):
+- 1 rode ui, zeer fijn gesneden, gemengd met sap van een halve limoen + snuf zout, 15 min laten staan
+
 ## Ingrediënten
 
 Vlees:
@@ -64,6 +67,7 @@ Op het einde:
 
 Boodschappen-upgrade (maakt meer verschil dan extra kruiden):
 - 2 avocado's, zure room, geraspte cheddar, taco shells
+- (optioneel: 1 rode ui voor pickled topping)
 
 ## Bereiding
 
