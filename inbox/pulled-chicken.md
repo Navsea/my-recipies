@@ -71,13 +71,13 @@ Boodschappen-upgrade (maakt meer verschil dan extra kruiden):
 
 ## Bereiding
 
-1. Dijen aanbakken (smaakwinst, +15 min): zout en peper op de dijen, in 2 of 3 batches mooi kleuren in de stoofpot (niet volledig garen). Apart zetten.
+1. Dijen aanbakken (smaakwinst, +15 min): verwijder eerst het vel van de dijen. Zout en peper erop, in 2 of 3 batches mooi kleuren in de stoofpot (niet volledig garen). Apart zetten.
 2. Groenten bakken: snijd 3 uien in halve ringen, 4 paprika's in reepjes, 6 teentjes look fijn. Verhit flinke scheut olijfolie, bak 10 min tot uien zacht en licht gekaramelliseerd.
 3. Kruiden bakken: voeg paprikapoeder, komijn, oregano, chilipoeder (en optioneel korianderpoeder) toe, 1 min meebakken.
 4. Saus maken: voeg tomatenblokjes, passata, tomatenpuree, bouillon, honing en appelazijn toe. Goed mengen.
 5. Dijen terug: leg de aangebakken dijen terug in de saus.
 6. Sudderen: met deksel 2 uur zacht pruttelen (met bot langer dan zonder bot). Test: als de kip vanzelf uit elkaar valt, is ze klaar.
-7. Uitbenen + pullen: kip eruit halen, 10 min laten afkoelen. Botten en vel verwijderen, vlees met 2 vorken uit elkaar trekken, terug in de saus. Breng de saus op het einde op smaak met zout.
+7. Uitbenen + pullen: kip eruit halen, 10 min laten afkoelen. Botten verwijderen (vel is er vooraf al af), vlees met 2 vorken uit elkaar trekken, terug in de saus. Breng de saus op het einde op smaak met zout.
 8. Afwerken: uitgelekte maïs + bonen + limoensap (1 à 2) toevoegen, nog 20-30 min zonder deksel laten inkoken.
 
 ## Bewaren
