@@ -1,7 +1,7 @@
 ---
 tags: [hoofdgerecht]
 tijd: 30min
-personen: 2
+personen: 4
 bron:
 beoordeling: ★★★☆☆
 ---

@@ -18,3 +18,4 @@ Zoek in Obsidian op tag:
 - [[inbox]] — ideeën om te proberen
 - `recepten/` — 1 bestand per recept
 - `bijlagen/` — foto's
+- [[AFSPRAKEN]] — regels van deze vault
