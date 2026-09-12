@@ -1,6 +1,6 @@
 ---
 tags: [hoofdgerecht, mexicaans, kip, mealprep]
-tijd: 2u30 (60-90min sudderen + 30min inkoken)
+tijd: 3-4u (waarvan ~1u15 actief; 2u sudderen + 30min inkoken)
 personen: 10
 opbrengst: ongeveer 10 tot 12 porties (250 à 300 g per portie)
 bron:
@@ -11,14 +11,14 @@ beoordeling: ☆☆☆☆☆ (nog testen — draft in inbox)
 Status: DRAFT — ongetest, nog niet naar `recepten/` verplaatsen.
 
 ## Serveren (kies 1)
-- Optie A: taco shells + pulled chicken + avocado + zure room + cheddar
+- Optie A: taco's (zacht of hard — zacht breekt minder en er kan meer vulling in) + pulled chicken + avocado + zure room + cheddar
 - Optie B: volkoren wraps + pulled chicken + avocado + zure room
 - Optie C: burrito bowl met rijst + avocado + zure room
 
 Ranking: A > B > C. Volkoren wraps geven meer bite, iets minder authentiek, maar met sappige pulled chicken merk je dat nauwelijks.
 
 Voor vanavond serveren:
-- Taco shells, pulled chicken, avocado in blokjes, zure room, geraspte cheddar, eventueel jalapeño's
+- Zachte taco's (of harde shells), pulled chicken, avocado in blokjes, zure room, geraspte cheddar, fijngesneden ijsbergsla, eventueel jalapeño's
 
 Snelle taco-topping (fris tegenover warme, rijke kip):
 - fijngesneden ijsbergsla
@@ -32,8 +32,8 @@ Optionele upgrade (restaurantniveau):
 ## Ingrediënten
 
 Vlees:
-- 2 kg kippendijen
-- 2 kippenborsten (optioneel — smaak en textuur komen vooral van de dijen)
+- 3 kg kippendijen met bot (= ca. 1,9 à 2,2 kg vlees na uitbenen)
+- Kippenborsten niet nodig — smaak en textuur komen van de dijen
 
 Groenten:
 - 4 Palermo puntpaprika's
@@ -66,18 +66,19 @@ Op het einde:
 - 1 blik zwarte bonen of kidneybonen (uitgelekt en afgespoeld)
 
 Boodschappen-upgrade (maakt meer verschil dan extra kruiden):
-- 2 avocado's, zure room, geraspte cheddar, taco shells
+- 2 avocado's, zure room, geraspte cheddar, taco's (zacht of hard)
 - (optioneel: 1 rode ui voor pickled topping)
 
 ## Bereiding
 
-1. Groenten bakken: snijd 3 uien in halve ringen, 4 paprika's in reepjes, 6 teentjes look fijn. Verhit flinke scheut olijfolie, bak 10 min tot uien zacht en licht gekaramelliseerd.
-2. Kruiden bakken: voeg paprikapoeder, komijn, oregano, chilipoeder (en optioneel korianderpoeder) toe, 1 min meebakken.
-3. Saus maken: voeg tomatenblokjes, passata, tomatenpuree, bouillon, honing en appelazijn toe. Goed mengen.
-4. Kip toevoegen: leg kippendijen (+ optioneel borsten) in de saus, volledig laten garen in de saus.
-5. Sudderen: met deksel 60 tot 90 minuten zacht pruttelen. Test: als de kip vanzelf uit elkaar valt, is ze klaar. (2 uur kan ook, maar is niet nodig.)
-6. Pullen: kip eruit halen, met 2 vorken uit elkaar trekken, terug in de saus. Breng de saus op het einde op smaak met zout.
-7. Afwerken: uitgelekte maïs + bonen + limoensap (1 à 2) toevoegen, nog 20-30 min zonder deksel laten inkoken.
+1. Dijen aanbakken (smaakwinst, +15 min): zout en peper op de dijen, in 2 of 3 batches mooi kleuren in de stoofpot (niet volledig garen). Apart zetten.
+2. Groenten bakken: snijd 3 uien in halve ringen, 4 paprika's in reepjes, 6 teentjes look fijn. Verhit flinke scheut olijfolie, bak 10 min tot uien zacht en licht gekaramelliseerd.
+3. Kruiden bakken: voeg paprikapoeder, komijn, oregano, chilipoeder (en optioneel korianderpoeder) toe, 1 min meebakken.
+4. Saus maken: voeg tomatenblokjes, passata, tomatenpuree, bouillon, honing en appelazijn toe. Goed mengen.
+5. Dijen terug: leg de aangebakken dijen terug in de saus.
+6. Sudderen: met deksel 2 uur zacht pruttelen (met bot langer dan zonder bot). Test: als de kip vanzelf uit elkaar valt, is ze klaar.
+7. Uitbenen + pullen: kip eruit halen, 10 min laten afkoelen. Botten en vel verwijderen, vlees met 2 vorken uit elkaar trekken, terug in de saus. Breng de saus op het einde op smaak met zout.
+8. Afwerken: uitgelekte maïs + bonen + limoensap (1 à 2) toevoegen, nog 20-30 min zonder deksel laten inkoken.
 
 ## Bewaren
 - Alleen pulled chicken invriezen, porties 250-300 g.
