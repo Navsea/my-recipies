@@ -43,7 +43,7 @@ Groenten:
 
 Saus:
 - 2 blikken tomatenblokjes (400 g)
-- 500 ml passata
+- 500 ml passata (690 g gebruikt — lekker)
 - 2 el tomatenpuree
 - 250 ml kippenbouillon
 
